@@ -5,6 +5,8 @@ body {
     font-weight: 300;
     color: #fff;
     text-align: center;
+    background: url(..img/backgrounds/1.jpg);
+
 }
 
 strong { font-weight: 700; }
